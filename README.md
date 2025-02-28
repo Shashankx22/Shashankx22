@@ -14,9 +14,8 @@ Welcome to my GitHub! I'm passionate about **building intelligent systems, creat
 ---
 
 ## 📌 About Me  
-🎓 **B.Tech in CSE (AI & ML)** | Don Bosco Institute of Technology | CGPA: 8.903  
-💡 Passionate about **AI Research, Web Development, and Cybersecurity**  
-🔭 Exploring **ML, Data Science, and Full Stack Development**  
+🎓 **B.Tech in CSE (AI & ML)** | Don Bosco Institute of Technology 
+🔭 Exploring **AI&ML, Data Science, and Full Stack Development**  
 📫 Reach me at **shashankrajashekar22@gmail.com**  
 🌍 **Portfolio:** [shashanks.netlify.app](https://shashanks.netlify.app/)  
 🔗 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-b-r-775394253/)  
