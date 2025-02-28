@@ -30,7 +30,10 @@ Welcome to my GitHub! I'm passionate about **building intelligent systems, creat
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashankx22&layout=compact&theme=tokyonight)  
 
 ### 🌟 GitHub Contribution Graph  
-![Shashank's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shashankx22&theme=github)  
+![Shashank's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shashankx22&theme=high-contrast)  
+
+### 🔥 LeetCode Contribution Calendar  
+![LeetCode Stats](https://leetcard.jacoblin.cool/Shashankx22?ext=heatmap&theme=dark)  
 
 ### 🏆 Competitive Programming Stats  
 - [![LeetCode Stats](https://leetcard.jacoblin.cool/Shashankx22?theme=dark&font=Karma)](https://leetcode.com/u/Shashankx22/)  
