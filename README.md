@@ -1,4 +1,8 @@
-# 👋 Welcome to My GitHub!
+<h1 align="center">👋 <a href="https://www.linkedin.com/in/shashank-b-r-775394253/" target="_blank">Welcome to My GitHub!</a> 🚀</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hey+there!+I'm+Shashank+B+R!;Full+Stack+Developer+%7C+AI+%7C+ML+%7C+Data+Scientist!" alt="Typing SVG" />
+</p>
 
 ### **Hey there! I'm Shashank B R**  
 🚀 **Full Stack Developer | AI & ML Enthusiast | Data Scientist**  
@@ -13,6 +17,7 @@ Welcome to my GitHub! I'm passionate about **building intelligent systems, creat
 🔭 Exploring **ML, Data Science, and Full Stack Development**  
 📫 Reach me at **shashankrajashekar22@gmail.com**  
 🌍 **Portfolio:** [shashanks.netlify.app](https://shashanks.netlify.app/)  
+🔗 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-b-r-775394253/)  
 
 ---
 
@@ -56,6 +61,9 @@ Welcome to my GitHub! I'm passionate about **building intelligent systems, creat
 ---
 
 ## 📈 GitHub, LeetCode, HackerRank & Code360 Stats  
+![Shashank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shashankx22&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashankx22&layout=compact&theme=tokyonight)  
+
 ### 🌟 GitHub Contribution Graph  
 ![Shashank's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shashankx22&theme=react-dark)  
 
