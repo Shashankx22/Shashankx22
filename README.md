@@ -29,8 +29,7 @@ Welcome to my GitHub! I'm passionate about **building intelligent systems, creat
 ### 🌟 GitHub Contribution Graph  
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashankx22&theme=github&area=true&hide_border=true" width="100%">  
 
-### 🔥 LeetCode Contribution Calendar  
-<img src="https://leetcard.jacoblin.cool/Shashankx22?ext=heatmap&theme=dark" width="100%">  
+
 
 ### 🏆 Competitive Programming Stats  
 - [![LeetCode Stats](https://leetcard.jacoblin.cool/Shashankx22?theme=dark&font=Karma)](https://leetcode.com/u/Shashankx22/)  
