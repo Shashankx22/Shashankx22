@@ -4,9 +4,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW90dmkyeHMzbmY1MHdyM2hhMWsyMGpxbmpsNDM3NmhlNndhMDFldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fSGrpj2wJynDwgftc7/giphy.gif" width="200"> 
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hey+there!+I'm+Shashank+B+R!;Full+Stack+Developer+%7C+AI+%7C+ML+%7C+Data+Scientist!" alt="Typing SVG" />
-</p>
+ 
 
 ### **Hey there! I'm Shashank B R**  
 🚀 **Full Stack Developer | AI & ML Enthusiast | Data Scientist**  
@@ -16,8 +14,7 @@ Welcome to my GitHub! I'm passionate about **building intelligent systems, creat
 ---
 
 ## 📌 About Me  
-🎓 **B.Tech in CSE (AI & ML)** | Don Bosco Institute of Technology | CGPA: 8.903  
-💡 Passionate about **AI Research, Web Development, and Cybersecurity**  
+🎓 **B.Tech in CSE (AI & ML)** | Don Bosco Institute of Technology  
 🔭 Exploring **ML, Data Science, and Full Stack Development**  
 📫 Reach me at **shashankrajashekar22@gmail.com**  
 🌍 **Portfolio:** [shashanks.netlify.app](https://shashanks.netlify.app/)  
