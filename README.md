@@ -1,6 +1,13 @@
 <h1 align="center">👋 <a href="https://www.linkedin.com/in/shashank-b-r-775394253/" target="_blank">Welcome to My GitHub!</a> 🚀</h1>
 
- 
+<p align="center">
+  <img src="https://media.giphy.com/media/JFawGLFMCJNDi/giphy.gif" width="200"> 
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hey+there!+I'm+Shashank+B+R!;Full+Stack+Developer+%7C+AI+%7C+ML+%7C+Data+Scientist!" alt="Typing SVG" />
+</p>
+
 ### **Hey there! I'm Shashank B R**  
 🚀 **Full Stack Developer | AI & ML Enthusiast | Data Scientist**  
 
@@ -23,10 +30,10 @@ Welcome to my GitHub! I'm passionate about **building intelligent systems, creat
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashankx22&layout=compact&theme=tokyonight)  
 
 ### 🌟 GitHub Contribution Graph  
-![Shashank's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shashankx22&theme=high-contrast)  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashankx22&theme=github&area=true&hide_border=true" width="100%">  
 
 ### 🔥 LeetCode Contribution Calendar  
-![LeetCode Stats](https://leetcard.jacoblin.cool/Shashankx22?ext=heatmap&theme=dark)  
+<img src="https://leetcard.jacoblin.cool/Shashankx22?ext=heatmap&theme=dark" width="100%">  
 
 ### 🏆 Competitive Programming Stats  
 - [![LeetCode Stats](https://leetcard.jacoblin.cool/Shashankx22?theme=dark&font=Karma)](https://leetcode.com/u/Shashankx22/)  
