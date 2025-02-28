@@ -56,22 +56,25 @@ Welcome to my GitHub! I'm passionate about **building intelligent systems, creat
 ---
 
 ## 📌 Notable Projects  
-🔹 **[Disease Detection & Healthcare Recommendation](#)** – Predicts diseases based on symptoms & provides recommendations.  
-🔹 **[Interactive Resume Template](#)** – A customizable resume builder with dynamic templates.  
-🔹 **[Finance Management System](#)** – Tracks expenses, assets, and loans efficiently.  
-🔹 **[Landmark Detection](#)** – Classifies landmarks using Vision Transformers.  
-🔹 **[IoT-Based Water Level Monitoring](#)** – Smart water level detection using IoT sensors.  
+🔹 **Disease Detection & Healthcare Recommendation System** – Predicts diseases from symptoms using ML and provides recommended treatments.  
+🔹 **Interactive Resume Template** – A customizable resume builder with dynamic templates.  
+🔹 **Finance Management System** – Tracks expenses, assets, and loans efficiently.  
+🔹 **Landmark Detection** – Classifies landmarks using Vision Transformers.  
+🔹 **IoT-Based Water Level Monitoring System** – Smart water level detection using IoT sensors.  
 
 💻 **Explore my repositories** to see more of my work!  
 
 ---
 
-## 📈 GitHub Stats  
+## 📈 GitHub & LeetCode Stats  
 ![Shashank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shashankx22&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashankx22&layout=compact&theme=tokyonight)  
 
-### 🌟 Contribution Graph  
-![Shashank's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Shashankx22&theme=dracula)
+### 🌟 GitHub Contribution Graph  
+![Shashank's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shashankx22&theme=react-dark)  
+
+### 🏆 LeetCode Stats  
+![LeetCode Stats](https://leetcard.jacoblin.cool/Shashankx22?theme=dark&font=Karma)  
 
 ---
 
