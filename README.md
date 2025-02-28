@@ -38,7 +38,8 @@ Welcome to my GitHub! I'm passionate about **building intelligent systems, creat
 
 ---
 
-### 🚀 Let's Build Something Amazing! 🔗 **GitHub Repo:** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/Shashankx22](https://github.com/Shashankx22?tab=repositories))  
+### 🚀 Let's Build Something Amazing! 🔗 **GitHub Repo:** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shashankx22?tab=repositories)
+
 
  
 💡 **"Code, Create, Innovate!"** 🚀  
