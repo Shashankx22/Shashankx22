@@ -1,7 +1,7 @@
 <h1 align="center">👋 <a href="https://www.linkedin.com/in/shashank-b-r-775394253/" target="_blank">Welcome to My GitHub!</a> 🚀</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JFawGLFMCJNDi/giphy.gif" width="200"> 
+  <img src="https://media.tenor.com/ZF0dnUvJljwAAAAC/cat-wave-animated.png" width="200"> 
 </p>
 
 <p align="center">
