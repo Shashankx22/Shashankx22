@@ -55,34 +55,17 @@ Welcome to my GitHub! I'm passionate about **building intelligent systems, creat
 
 ---
 
-## 📌 Notable Projects  
-🔹 **Disease Detection & Healthcare Recommendation System** – Predicts diseases from symptoms using ML and provides recommended treatments.  
-🔹 **Interactive Resume Template** – A customizable resume builder with dynamic templates.  
-🔹 **Finance Management System** – Tracks expenses, assets, and loans efficiently.  
-🔹 **Landmark Detection** – Classifies landmarks using Vision Transformers.  
-🔹 **IoT-Based Water Level Monitoring System** – Smart water level detection using IoT sensors.  
-
-💻 **Explore my repositories** to see more of my work!  
-
----
-
-## 📈 GitHub & LeetCode Stats  
+## 📈 GitHub, LeetCode, HackerRank & Code360 Stats  
 ![Shashank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shashankx22&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashankx22&layout=compact&theme=tokyonight)  
 
 ### 🌟 GitHub Contribution Graph  
 ![Shashank's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shashankx22&theme=react-dark)  
 
-### 🏆 LeetCode Stats  
-![LeetCode Stats](https://leetcard.jacoblin.cool/Shashankx22?theme=dark&font=Karma)  
-
----
-
-## 🎯 Future Goals  
-✅ Master advanced AI/ML algorithms 🚀  
-✅ Develop scalable, high-performance web applications 💻  
-✅ Contribute to open-source projects 🔥  
-✅ Work on AI-driven automation projects 🤖  
+### 🏆 Competitive Programming Stats  
+- [![LeetCode Stats](https://leetcard.jacoblin.cool/Shashankx22?theme=dark&font=Karma)](https://leetcode.com/u/Shashankx22/)  
+- [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/shashankrajashe1)  
+- [![Code360](https://img.shields.io/badge/Code360-blue?style=for-the-badge)](https://www.naukri.com/code360/profile/ea9f499b-4ac9-4293-83c7-8a2847f042df)  
 
 ---
 
