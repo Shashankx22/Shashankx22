@@ -33,8 +33,6 @@ Welcome to my GitHub! I'm passionate about **building intelligent systems, creat
 
 ### 🏆 Competitive Programming Stats  
 - [![LeetCode Stats](https://leetcard.jacoblin.cool/Shashankx22?theme=dark&font=Karma)](https://leetcode.com/u/Shashankx22/)  
-- [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/shashankrajashe1)  
-- [![Code360](https://img.shields.io/badge/Code360-blue?style=for-the-badge)](https://www.naukri.com/code360/profile/ea9f499b-4ac9-4293-83c7-8a2847f042df)  
 
 ---
 
