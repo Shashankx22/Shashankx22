@@ -26,9 +26,7 @@ Welcome to my GitHub! I'm passionate about **building intelligent systems, creat
 ![Shashank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shashankx22&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashankx22&layout=compact&theme=tokyonight)  
 
-### 🌟 GitHub Contribution Graph  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashankx22&theme=github&area=true&hide_border=true" width="100%">  
-
+ 
 
 
 ### 🏆 Competitive Programming Stats  
